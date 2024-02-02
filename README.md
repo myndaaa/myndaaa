@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **myndaaa/myndaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+###👋
+<h2>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Protest+Strike&size=30&pause=1000&color=92103D&background=2424242F&center=true&vCenter=true&random=false&width=600&height=100&lines=Hello+World+%F0%9F%8C%8E;+I+'m+a+Computer+Science+student+%F0%9F%92%BB;My+Majors+are+artificial+Intelligence+%F0%9F%A4%96;And+Software+Development+%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a>
+</h2>
+
