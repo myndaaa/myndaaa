@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 </h2>
 
 <details>
-<summary><h2>🛠️ Technologies I've Used/Been Exposed To</h2></summary>
+<h2>🛠️ Technologies I've Used/Been Exposed To</h2>
 
   <h3>👨‍💻 Programming and Markup Languages</h3>
 
