@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<div style="background: url('https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.peakpx.com%2Fen%2Fsearch%3Fq%3Dpixel%2Bart&psig=AOvVaw3OSNQ-tXFTSoD9Byiow3oH&ust=1707056329740000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCICcisCuj4QDFQAAAAAdAAAAABAG') center / cover no-repeat fixed; opacity: 0.1; padding: 20px;">
 
 <h2>
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Honk&size=60&pause=1000&color=BDF778&center=true&vCenter=true&repeat=false&random=false&width=900&height=150&lines=%F0%9F%8C%8F+Hello+World+%F0%9F%8C%8E" alt="Hello World" /></a>
@@ -91,4 +91,4 @@ Here are some ideas to get you started:
     <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white"></a>
   </p>
 
-
+</div>
