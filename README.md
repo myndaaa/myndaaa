@@ -19,7 +19,7 @@ Here are some ideas to get you started:
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=roboto&size=25&pause=1000&color=BDF778&background=FFFFFF0B&center=true&vCenter=true&random=false&width=900&height=100&lines=I'm+a+Comp+Sci+Student+%F0%9F%92%BB;Majoring+in+Artifical+Intelligence+%F0%9F%8C%9E;And+Software+Development+%F0%9F%8C%91" alt="This is Myndaa" /></a>
 </h2>
 
-<details>
+
 <h2>🛠️ Technologies I've Used/Been Exposed To</h2>
 
   <h3>👨‍💻 Programming and Markup Languages</h3>
@@ -90,5 +90,5 @@ Here are some ideas to get you started:
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
     <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white"></a>
   </p>
-</details>
+
 
