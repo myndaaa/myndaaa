@@ -5,3 +5,11 @@
 </h1>
 
 ![Metrics](/github-metrics.svg)
+<p align="center">
+  <img src="/github-metrics.svg" width="48%" align="left">
+  <img src="pic1.png" width="48%" align="right">
+</p>
+
+<p align="center">
+  <img src="/metrics.plugin.isocalendar.svg" width="100%">
+</p>
