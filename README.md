@@ -14,8 +14,8 @@
   <img src="/metrics.plugin.isocalendar.svg" width="100%">
 </p>
 
-<h2>🛠️ Technologies I use ![Neon Green](https://img.shields.io/badge/Technologies%20I%20Use-00FF00.svg)</h2>
-  <h3>🌈 Programming Languages ![Neon Green](https://img.shields.io/badge/Programming%20Languages-00FF00.svg)</h3>
+<h2>🛠️ Technologies I use </h2>
+  <h3>🌈 Programming Languages</h3>
 <p>
   <a href="#"><img alt="C" src="https://img.shields.io/badge/C-8A2BE2.svg?logo=c&logoColor=white"></a>
   <a href="#"><img alt="C++" src="https://img.shields.io/badge/C++-7A4C9C.svg?logo=cplusplus&logoColor=white"></a>
@@ -28,7 +28,7 @@
   <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/Arduino-6C3483.svg?logo=arduino&logoColor=white"></a>
 </p>
 
-<h3>🚀 Frameworks, Libraries, and Engines ![Neon Green](https://img.shields.io/badge/Frameworks,%20Libraries%20and%20Engines-00FF00.svg)</h3>
+<h3>🚀 Frameworks, Libraries, and Engines </h3>
 <p>
   <a href="#"><img alt="Unity" src="https://img.shields.io/badge/Unity-5F4B8B.svg?logo=unity&logoColor=white"></a>
   <a href="#"><img alt="Unreal" src="https://img.shields.io/badge/Unreal%20Engine-6A0DAD.svg?logo=unreal-engine&logoColor=white"></a>
@@ -46,7 +46,7 @@
   <a href="#"><img alt="MQTT" src="https://img.shields.io/badge/MQTT-8A2BE2.svg?logo=mqtt&logoColor=white"></a>
 </p>
 
-<h3>🗄️ Databases ![Purple](https://img.shields.io/badge/Databases-800080.svg)</h3>
+<h3>🗄️ Databases </h3>
 <p>
   <a href="#"><img alt="HDFS" src="https://img.shields.io/badge/HDFS-8A2BE2.svg?logo=hadoop&logoColor=white"></a>
   <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
@@ -57,7 +57,7 @@
   <a href="#"><img alt="Firestore" src="https://img.shields.io/badge/Firestore-8A2BE2.svg?logo=firebase&logoColor=white"></a>
 </p>
 
-<h3>☁️ Hosting and Cloud ![Purple](https://img.shields.io/badge/Hosting%20and%20Cloud-800080.svg)</h3>
+<h3>☁️ Hosting and Cloud</h3>
 <p>
   <a href="#"><img alt="AWS" src="https://img.shields.io/badge/AWS-6A1E9C.svg?logo=amazon-aws&logoColor=white"></a>
   <a href="#"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-00FF7F.svg?logo=firebase&logoColor=white"></a>
