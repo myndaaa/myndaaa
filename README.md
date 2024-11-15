@@ -4,11 +4,4 @@
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=200&size=25&pause=1000&color=BDF778&background=FFFFFF0B&center=true&vCenter=true&width=900&height=100&lines=Computer+Science+%40+Swinburne;+IOT+developer+%7C+App+Developer+%7C+Game+Dev+Enthusiast" alt="Typing SVG" /></a>
 </h1>
 
-[<img align="left" width="390" alt="" src="https://github.com/myndaaa/myndaaa/blob/main/path/to/metrics.leftpanel.svg">](#)
-
-[<img align="right" width="205" alt="" src="https://count.getloli.com/get/@:myndaaa?theme=rule34">](#)
-[<img align="right" width="390" alt="" src="https://github.com/myndaaa/myndaaa/blob/main/path/to/metrics.rightpanel.svg">](#)
-
-[<img align="right" width="390" alt="" src="https://github.com/myndaaa/myndaaa/assets/57824016/f4e657f8-a8c2-4007-b19c-5565288da528"">](#)
-
-
+![Metrics](/github-metrics.svg)
