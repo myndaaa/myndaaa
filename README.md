@@ -14,7 +14,8 @@
   <img src="/metrics.plugin.isocalendar.svg" width="100%">
 </p>
 
-
+<h2>🛠️ Technologies I use</h2>
+  <h3>🌈 Programming Languages</h3>
 <p>
   <a href="#"><img alt="C" src="https://img.shields.io/badge/C-8A2BE2.svg?logo=c&logoColor=white"></a>
   <a href="#"><img alt="C++" src="https://img.shields.io/badge/C++-7A4C9C.svg?logo=cplusplus&logoColor=white"></a>
