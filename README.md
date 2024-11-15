@@ -6,8 +6,8 @@
 
 
 <p align="center">
-  <img src="/github-metrics.svg" width="48%" align="left">
-  <img src="pic1.png" width="48%" align="right">
+  <img src="/github-metrics.svg" width="48%" style="vertical-align: top;>
+  <img src="pic1.png" width="48%" style="vertical-align: top;>
 </p>
 
 <p align="center">
