@@ -1,7 +1,7 @@
 
 <h1>
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Honk&size=60&pause=1000&color=BDF778&center=true&vCenter=true&repeat=false&random=false&width=900&height=150&lines=%F0%9F%8C%8F+Hello+World+%F0%9F%8C%8E" alt="Hello World" /></a>
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=roboto&size=25&pause=1000&color=BDF778&background=FFFFFF0B&center=true&vCenter=true&random=false&width=900&height=100&lines=I'm+a+Comp+Sci+Student+%F0%9F%92%BB;Majoring+in+Artifical+Intelligence+%F0%9F%8C%9E;And+Software+Development+%F0%9F%8C%91" alt="This is Myndaa" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=200&size=25&pause=1000&color=BDF778&background=FFFFFF0B&center=true&vCenter=true&width=900&height=100&lines=Computer+Science+%40+Swinburne;+IOT+developer+%7C+App+Developer+%7C+Game+Dev+Enthusiast" alt="Typing SVG" /></a>
 </h1>
 
 <h2>🛠️ Technologies I use</h2>
