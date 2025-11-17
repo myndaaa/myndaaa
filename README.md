@@ -28,7 +28,7 @@
   <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/Arduino-6C3483.svg?logo=arduino&logoColor=white"></a>
 </p>
 
-<h3><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Walter+Turncoat&size=30&pause=1000&color=1BF712&repeat=false&width=435&lines=%F0%9F%93%A6+Frameworks%2C+Libraries%2C+and+Engines" alt="Typing SVG" /></a> </h3>
+<h3><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Walter+Turncoat&size=30&pause=1000&color=1BF712&repeat=false&width=435&lines=%F0%9F%93%A6+Frameworks+and+Libraries" alt="Typing SVG" /></a> </h3>
 <p>
   <a href="#"><img alt="Unity" src="https://img.shields.io/badge/Unity-5F4B8B.svg?logo=unity&logoColor=white"></a>
   <a href="#"><img alt="Unreal" src="https://img.shields.io/badge/Unreal%20Engine-6A0DAD.svg?logo=unreal-engine&logoColor=white"></a>
