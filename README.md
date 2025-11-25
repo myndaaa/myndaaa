@@ -12,6 +12,7 @@
   <img src="/metrics.plugin.isocalendar.svg" width="100%">
 </p>
 
+
 <h2>
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Walter+Turncoat&size=30&pause=1000&color=1BF712&repeat=false&width=435&lines=%F0%9F%92%BE+Technologies+I+use" alt="Typing SVG" />
@@ -109,4 +110,9 @@
   <a href="#"><img alt="AWS" src="https://img.shields.io/badge/AWS-6A1E9C.svg?logo=amazon-aws&logoColor=white"></a>
   <a href="#"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-4EA94B.svg?logo=firebase&logoColor=white"></a>
   <a href="#"><img alt="DigitalOcean" src="https://img.shields.io/badge/DigitalOcean-28A745.svg?logo=digitalocean&logoColor=white"></a>
+</p>
+
+
+<p align="center">
+  <img src="lily.png" width="1200" style="display:block; margin:auto;" />
 </p>
